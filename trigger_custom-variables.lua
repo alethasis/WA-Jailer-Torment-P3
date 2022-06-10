@@ -1,0 +1,4 @@
+{
+  assignmentMarker = "string",
+  assignmentBatch = "number"
+}
